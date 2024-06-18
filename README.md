@@ -11,6 +11,20 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 Feel free to explore my repositories, open issues, or contribute. Let's make the web a better place together!
 
+# Connect with me:
+
+<div style="display: flex; gap: 10px;">
+    <a href="https://github.com/yousifpa98" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="transition: transform 0.2s; display: inline-block;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+    <a href="https://www.instagram.com/your_instagram_handle" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" style="transition: transform 0.2s; display: inline-block;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+    <a href="https://www.linkedin.com/in/your_linkedin_handle" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.2s; display: inline-block;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">
+    </a>
+</div>
+
 ![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
