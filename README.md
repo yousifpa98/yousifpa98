@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 💞️ **Collaboration:** Always on the lookout to contribute to open source projects and collaborate with like-minded developers.
 - 📫 **How to Reach Me:** DM me
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun Fact:** I'd rather spend days learning how to code something than paying for it.
+- ⚡ **Fun Fact:** I'd rather spend days (or weeks) learning how to code a piece of software myself than paying for it.
 
 Feel free to explore my repositories, open issues, or contribute. Let's make the web a better place together!
 
