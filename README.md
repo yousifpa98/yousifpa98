@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I'd rather spend days (or weeks) learning how to code a piece of software myself than paying for it.
 
-Feel free to explore my repositories, open issues, or contribute. Let's make the web a better place together!
+<!-- Feel free to explore my repositories, open issues, or contribute. Let's make the web a better place together! -->
 
 # Connect with me:
 
